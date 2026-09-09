@@ -48,3 +48,5 @@ plt.subplots_adjust(bottom=0.18)
 # Salva o gráfico
 plt.savefig(r'C:\Users\gasiq\Documents\DocumentosProjetos-Programacao-github\Qualidade-da-água 2021_2026_SAMAE\evolucao_potabilidade_samae.png', dpi=300, bbox_inches='tight')
 print("Gráfico exportado com sucesso direto na raiz do projeto!")
+
+# FIM DO SCRIPT
