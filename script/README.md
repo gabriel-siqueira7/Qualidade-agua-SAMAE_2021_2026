@@ -22,7 +22,7 @@ O gráfico abaixo ilustra a taxa de conformidade das amostras exigidas pela Port
 
 
 
-!\[Evolução Histórica de Potabilidade](./evolucao\_potabilidade\_samae.png)
+![Evolução Histórica de Potabilidade](./evolucao_potabilidade_samae.png)
 
 
 
