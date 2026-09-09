@@ -1,4 +1,4 @@
-# Pipeline de Análise Histórica: Potabilidade da Água (SAMAE Caxias do Sul)
+# Análise Histórica: Potabilidade da Água (SAMAE Caxias do Sul)
 
 Este repositório contém uma solução em Python para extração, estruturação e visualização de dados históricos de potabilidade e conformidade química da água distribuída pelo **SAMAE (Serviço Autônomo Municipal de Água e Esgoto)** de Caxias do Sul - RS, cobrindo o intervalo de **2021 a 2026**.
 
